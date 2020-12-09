@@ -18,4 +18,12 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
+## Find Me At
+
+<details>
+  <summary>You Can find me at these places as well !!!</summary>
+  <br>
+  - tanishqvyas069@gmail.com
+  - https://tanishqvyas069.medium.com/
+</details>
 
