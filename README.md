@@ -3,7 +3,18 @@ I am a conscientious and enthusiastic student seeking a platform to learn a grea
 
 ## Profile Statistics
 
+<a href="https://github.com/tanishqvyas/tanishqvyas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/tanishqvyas/tanishqvyas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tanishq's GitHub Stats" />
+</a>
 
-![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true&layout=compact&langs_count=3)
+<!-- ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true) -->
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true&layout=compact&langs_count=3) -->
+
+
+## Tools & Technologies
+
