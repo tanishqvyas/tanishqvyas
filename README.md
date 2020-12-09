@@ -21,9 +21,12 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
 ## Find Me At
 
 <details>
-  <summary>You Can find me at these places as well !!!</summary>
+  <summary>Click to View</summary>
   <br>
-  - tanishqvyas069@gmail.com
-  - https://tanishqvyas069.medium.com/
+  <i class="ri-mail-fill"></i> Gmail 				: tanishqvyas069@gmail.com <br>
+  <i class="ri-medium-fill"></i> Medium 			: https://tanishqvyas069.medium.com/ <br>
+  <i class="ri-linkedin-box-fill"></i> LinkedIn		: https://www.linkedin.com/in/tanishq-vyas-24457516a/ <br>
+  <i class="ri-profile-fill"></i> Other Profile		: https://tanishqvyas.github.io/violee21/ <br>
+  <i class="ri-instagram-fill"></i> Instagram		: https://www.instagram.com/tanishqvyas_007/ <br>
 </details>
 
