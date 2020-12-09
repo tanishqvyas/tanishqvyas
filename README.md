@@ -3,8 +3,6 @@ I am a conscientious and enthusiastic student seeking a platform to learn a grea
 
 ## Profile Statistics
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas)](https://github.com/tanishqvyas/github-readme-stats) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true&layout=compact&langs_count=3)
 
 ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&theme=gruvbox&count_private=true)
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanishqvyas)](https://github.com/tanishqvyas/github-readme-stats) -->
