@@ -1,7 +1,7 @@
 # Hey Everyone
 My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a platform to learn a great deal about different technical domains, and an opportunity to interact with peers interested in the same. I am looking for an opportunity to hone my skills and support of skilled and helping mentors.
 
-## Profile Statistics
+## Github Profile Statistics
 
 <a href="https://github.com/tanishqvyas/tanishqvyas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqvyas&hide=java,html&langs_count=4&theme=gruvbox" />
@@ -12,4 +12,10 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
 
 
 ## Tools & Technologies
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
 
