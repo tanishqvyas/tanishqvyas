@@ -18,15 +18,16 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
+
 ## Find Me At
 
 <details>
   <summary>Click to View</summary>
   <br>
-  <i class="ri-mail-fill"></i> Gmail 				: tanishqvyas069@gmail.com <br>
-  <i class="ri-medium-fill"></i> Medium 			: https://tanishqvyas069.medium.com/ <br>
-  <i class="ri-linkedin-box-fill"></i> LinkedIn		: https://www.linkedin.com/in/tanishq-vyas-24457516a/ <br>
-  <i class="ri-profile-fill"></i> Other Profile		: https://tanishqvyas.github.io/violee21/ <br>
-  <i class="ri-instagram-fill"></i> Instagram		: https://www.instagram.com/tanishqvyas_007/ <br>
+  ⚫ Gmail 				: tanishqvyas069@gmail.com <br>
+  ⚫ Medium 			: https://tanishqvyas069.medium.com/ <br>
+  ⚫ LinkedIn			: https://www.linkedin.com/in/tanishq-vyas-24457516a/ <br>
+  ⚫ Other Profile		: https://tanishqvyas.github.io/violee21/ <br>
+  ⚫ Instagram			: https://www.instagram.com/tanishqvyas_007/ <br>
 </details>
 
