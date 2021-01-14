@@ -29,7 +29,7 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
   ⚫ Gmail 				: tanishqvyas069@gmail.com <br>
   ⚫ Medium 			: https://tanishqvyas069.medium.com/ <br>
   ⚫ LinkedIn			: https://www.linkedin.com/in/tanishq-vyas-24457516a/ <br>
-  ⚫ Other Profile		: https://tanishqvyas.github.io/violee21/ <br>
+  ⚫ Other Profile		: https://tanishqvyas.github.io/tanishq/ <br>
   ⚫ Instagram			: https://www.instagram.com/tanishqvyas_007/ <br>
 </details>
 
