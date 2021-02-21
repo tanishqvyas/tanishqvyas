@@ -1,4 +1,5 @@
-# Hey Everyone
+# Hey Everyone ![](https://visitor-badge.glitch.me/badge?page_id=tanishqvyas.tanishqvyas)
+
 My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a platform to learn a great deal about different technical domains, and an opportunity to interact with peers interested in the same. I am looking for an opportunity to hone my skills and support of skilled and helping mentors.
 
 ## Github Profile Statistics
