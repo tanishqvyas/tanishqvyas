@@ -11,6 +11,8 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tanishq's GitHub Stats" />
 </a>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishqvyas&theme=monokai" alt="tanishqvyas" /></a> </p>
+
 
 ## Tools & Technologies
 
