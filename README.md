@@ -13,6 +13,10 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqvyas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tanishq's GitHub Stats" />
 </a>
 
+### Dev Card
+
+<a href="https://app.daily.dev/tanishqvyas"><img src="https://api.daily.dev/devcards/6735cfb2fe544c04b236d8ccc76d926b.png?r=u72" width="400" alt="Tanishq vyas's Dev Card"/></a>
+
 ### Trophies
 
 <p style="padding:24px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishqvyas&theme=monokai" alt="tanishqvyas" /></a> </p>
